@@ -1,1 +1,2 @@
-*.asp linguist-language=C#
+* linguist-vendored
+*.cs linguist-vendored=false
